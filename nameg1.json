@@ -1,6 +1,20 @@
-{
-  "name": "Mr. Adisak Suethong",
-  "title": "Internet Programming Lecturer",
-  "phone": "+66 99 183 1659",
-  "email": "adisak.sue@gmail.com"
-}
+[
+  {
+    "name": "Mr. Adisak Suethong",
+    "title": "Internet Programming Lecturer",
+    "phone": "+66 99 183 1659",
+    "email": "adisak.sue@gmail.com"
+  },
+  {
+    "name": "Mr. Pongnadai",
+    "title": "Internet Programming Lecturer",
+    "phone": "+66 94 349 1818",
+    "email": "pongnadai.sa@ku.th"
+  },
+  {
+    "name": "Mr. Thayagorn",
+    "title": "Internet Programming Lecturer",
+    "phone": "+66 99 183 1659",
+    "email": "thayagorn.t@ku.th"
+  }
+]
